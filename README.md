@@ -1,4 +1,4 @@
-<h1> Olá, Me chamo Luiz Barbosa!</h1>
+<h1> Olá, sou Luiz Barbosa!</h1>
 
 🧑‍💻 Atualmente sou Técnico Estadual na Secretaria da Proteção Social (https://www.sps.ce.gov.br/):
 
