@@ -23,7 +23,7 @@
 <img width="530cm" src="https://github-readme-stats.vercel.app/api?username=luizbarbosah&show_icons=true&theme=radical" alt="luizbarbosah">
 
 <p align="left">
-<img width="530cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarbosah&layout=compact" alt="luizbarbosah">
+<img width="530cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarbosah&layout=radical" alt="luizbarbosah">
 
 
 
